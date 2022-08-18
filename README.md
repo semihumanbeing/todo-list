@@ -7,7 +7,7 @@ A simple to-do list web application.<br>
 
 
 ## Environment
-### Back-end
+### Back-end / DB
 - Java 1.8 <br>
 - Spring Boot 2.7.2 <br>
 - Spring Security <br>
